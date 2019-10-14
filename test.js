@@ -1,4 +1,1 @@
-fhdsjfds
-sgs
-g
-fdgfdgfdg
+console.log("hello world");
